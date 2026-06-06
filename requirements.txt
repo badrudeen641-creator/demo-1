@@ -3,3 +3,5 @@ jupyter
 numpy
 pandas
 power bi
+
+today is satuerday
