@@ -1,0 +1,8 @@
+python
+jupyter 
+numpy
+pandas
+power bi
+
+today is satuerday
+tomorrow is sunday
